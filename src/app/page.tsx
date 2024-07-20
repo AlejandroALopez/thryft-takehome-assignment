@@ -14,7 +14,7 @@ interface PackageProps {
 }
 
 // Single Package component
-export const Package: React.FC<PackageProps> = ({ id, removePackage }) => {
+const Package: React.FC<PackageProps> = ({ id, removePackage }) => {
   const [quantity, setQuantity] = useState<number>(1);
   const [style, setStyle] = useState<string>("");
   const [pkgName, setPackageName] = useState<string>("");
