@@ -21,4 +21,4 @@ Followed Figma design for the form screen, the confirmation modal, and the confi
 - GraphQL backend
 - Better styling for package components
 - On a successful submit, send an email to the address provided with shipment info
-
+- Enhance the instagram handle input field by validating it (search in instagram database) if possible
