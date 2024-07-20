@@ -1,6 +1,6 @@
 Thryft take-home assignment, by Alejandro (Alex) Lopez
 
-Deployed on Vercel:
+Deployed on Vercel: https://alopez-thryft-takehome-assignment.vercel.app/
 
 ## Design choices
 
